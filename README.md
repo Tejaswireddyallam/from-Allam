@@ -12,3 +12,6 @@ I like the restautant because its famous for its **spicy** cuisines especially *
 * Charminar
 * Begam Bazaar
 * salar jung museum
+****
+[Please use this link to redirect to MyMedia file](https://github.com/Tejaswireddyallam/from-Allam/blob/main/MyMedia.md)
+
