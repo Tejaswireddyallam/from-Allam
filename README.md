@@ -23,4 +23,8 @@ This table consists of some songs,their speciality and who composed it.
 |Jaya ho| Its a patriotic song which won Acadamic award(oscar) | AR Rehman|
 |Puvvolo dagi unna| Its a telugu song which covers all 7 wonders in the song | AR Rehman |
 |Yamaha Nagari| Its a song which explains about koltaka one of the state in India | Shanker Mahadevan |
+****
+###### Favourite Quotes
+>When you work, work as if everything depends on you. When you pray, pray as if everything depends on God.- ***JRD TATA***
+>Deapth of friendship does not depend on length of acquaintance. - ***Rabindranath Tagore***
 
