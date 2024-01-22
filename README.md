@@ -8,3 +8,7 @@ I like the restautant because its famous for its **spicy** cuisines especially *
 1. SPL Chicken Biryani
 2. Butter naan
 3. Paneer Butter Masala
+###### places to visit near restaurant
+* Charminar
+* Begam Bazaar
+* salar jung museum
