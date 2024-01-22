@@ -17,10 +17,10 @@ I like the restautant because its famous for its **spicy** cuisines especially *
 ****
 ###### Table with Songs
 This table consists of some songs,their speciality and who composed it.
-|:Song Name:| :Reason:| :Composer:|
+|Song Name| Reason| Composer|
 |---|---|---|
-|:sakiya sakiya:| :Melodity song and beautiful lyrics which relates wheather and emotions:| :AR Rehman:|
-|:Jaya ho:| :Its a patriotic song which won Acadamic award(oscar): | :AR Rehman:|
-|:Puvvolo dagi unna:| :Its a telugu song which covers all 7 wonders in the song: | :AR Rehman: |
-|:Yamaha Nagari: | : Its a song which explains about koltaka one of the state in India: | :Shanker Mahadevan:|
+|sakiya sakiya| Melodity song and beautiful lyrics which relates wheather and emotions| AR Rehman|
+|Jaya ho| Its a patriotic song which won Acadamic award(oscar) | AR Rehman|
+|Puvvolo dagi unna| Its a telugu song which covers all 7 wonders in the song | AR Rehman |
+|Yamaha Nagari| Its a song which explains about koltaka one of the state in India | Shanker Mahadevan |
 
