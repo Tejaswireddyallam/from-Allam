@@ -28,5 +28,5 @@ This table consists of some songs,their speciality and who composed it.
 >When you work, work as if everything depends on you. When you pray, pray as if everything depends on God.- ***JRD TATA***
 
 
->Deapth of friendship does not depend on length of acquaintance. - ***Rabindranath Tagore***
+>Depth of friendship does not depend on length of acquaintance. - ***Rabindranath Tagore***
 
