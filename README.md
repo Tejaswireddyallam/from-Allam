@@ -31,7 +31,7 @@ This table consists of some songs,their speciality and who composed it.
 >Depth of friendship does not depend on length of acquaintance. - ***Rabindranath Tagore***
 
 ****
-Code snippet
+###### Code snippet
 The below code is in javascript which gets the url path for a webpage.
 ```
 const newURL = `${window.location.protocol}//${window.location.host}/${window.location.pathname}${window.location.search}`
